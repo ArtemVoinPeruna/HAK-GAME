@@ -4,11 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-<<<<<<< HEAD
-  productGUID: cb2b81c4a675c874cab79a292b101ce6
-=======
-  productGUID: 83affde3888925741b5920b1959e4283
->>>>>>> refs/remotes/origin/main
+  productGUID: 97df163e20a0f7942947dd5300f783e8
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -677,11 +673,7 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-<<<<<<< HEAD
   metroPackageName: hakaton
-=======
-  metroPackageName: HAK-GAME
->>>>>>> refs/remotes/origin/main
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
