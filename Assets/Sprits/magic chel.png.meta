@@ -1,0 +1,1227 @@
+fileFormatVersion: 2
+guid: baa38ef0f8934e642acbf50d9ce76d9f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: magic chel_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 227
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9137d0ea6a66ed94dafa260d5ee7a097
+      internalID: 583586503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic chel_1
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1536
+        width: 227
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c31dee39704f84eb6ec03e275e20bc
+      internalID: -1249896297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic chel_2
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1536
+        width: 227
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cf22c56630ee8419ac541f9ae466af
+      internalID: 1346973364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic chel_3
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1536
+        width: 227
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139b91166bb863741aa0b7ff77e167c0
+      internalID: -1157756831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic chel_4
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1536
+        width: 227
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c6fd04cbcd84c4d823b034f37148d1
+      internalID: 1130343406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic chel_5
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1536
+        width: 227
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e402287fc55d2b84abf44b3739e422f2
+      internalID: -1344661845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic chel_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1317
+        width: 227
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffe920bf47b8c045b7d766e79c1ddea
+      internalID: 1456774937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic chel_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1317
+        width: 227
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a42f9c7f0f8e6c4caecca83d6ac4d82
+      internalID: -1373164071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic chel_8
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1317
+        width: 227
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a86d63118c05794fa77f9ad15164d49
+      internalID: -1004853299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic chel_9
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1317
+        width: 227
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1fec0a6b9f81b4dbf2197b3d5d0e21
+      internalID: 562331610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic chel_10
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1317
+        width: 227
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7435f7e662e2ab34c882eea61543907e
+      internalID: 2068387264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic chel_11
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1317
+        width: 227
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78437adbf982614099235f7473e1f87
+      internalID: -1002219540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic chel_12
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 1317
+        width: 227
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99817e2dec7eb904cba45dfb50be8d34
+      internalID: -2082511598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic chel_13
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1317
+        width: 227
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fa5d8a3c992d94abd7e361bda2364b
+      internalID: -60913443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic chel_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1098
+        width: 227
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e101981e2812db8419c8bdef45907964
+      internalID: 83483061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic chel_15
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1098
+        width: 227
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037ba451f89614d41b4b1e9f3866341e
+      internalID: -1962355367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic chel_16
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1098
+        width: 227
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e8e93164b20d744ade0768f3a1ccd2
+      internalID: -405478259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic chel_17
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1098
+        width: 227
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9230d13798d270a4494832ab2406af95
+      internalID: 826115802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic chel_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 879
+        width: 227
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ba5d62d939a0e4981853779915044d
+      internalID: -1321746023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic chel_19
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 879
+        width: 227
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8516ba969c1524dae66ca88783c87d
+      internalID: -1921073241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic chel_20
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 879
+        width: 227
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dccf5e9c18c8d1147a3fdcefd3b9488c
+      internalID: 1447711902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic chel_21
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 879
+        width: 227
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10b5d17b0b67c04a94179083922f78a
+      internalID: 851460611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic chel_22
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 879
+        width: 227
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2bd0b9b040fd74c8cb4ea13a330d65
+      internalID: 578897434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic chel_23
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 879
+        width: 227
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8ba35a9989ee64aa173041a963b543
+      internalID: -1588938745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic chel_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 660
+        width: 227
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270ecb82cb1540d4eaf68b2c8e554ac3
+      internalID: 710356472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic chel_25
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 660
+        width: 227
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daedbe5cda0620546bcb993e3eebf052
+      internalID: -1200381607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic chel_26
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 660
+        width: 227
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8ce2eb783817a459bb257fc2d62e69
+      internalID: -1005385075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic chel_27
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 660
+        width: 227
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733abc411f7f0984c8cef568574ef677
+      internalID: -1857620845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic chel_28
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 660
+        width: 227
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904fd8008bd73bc47ad26736e65f83af
+      internalID: 113938456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic chel_29
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 660
+        width: 227
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9f60a5eff213e41ac6c851411893a9
+      internalID: -904003077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic chel_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 441
+        width: 227
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2afd7fb2c3af9f47adcdb3faf7abf65
+      internalID: -1244980366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic chel_31
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 441
+        width: 227
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52aba4e19b7cf4844b33d6b71176e1f6
+      internalID: 1383136717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic chel_32
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 441
+        width: 227
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c491b7e26d58e4abdf0057fb6ab0e4
+      internalID: -1025772397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic chel_33
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 441
+        width: 227
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49778ded175901840a156464347ba4b3
+      internalID: -379334178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic chel_34
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 441
+        width: 227
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d0b6870c999f54e87a6f6a4877aab6
+      internalID: -2110139116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic chel_35
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 441
+        width: 227
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab618b115979b684591c78cc0101404b
+      internalID: 339046342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic chel_36
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 441
+        width: 227
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6abf1089e6a6240a5c9acb147c965a
+      internalID: 1525744115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic chel_37
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 441
+        width: 227
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8131e83f769964dbb0eec93557e198
+      internalID: 279759163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic chel_38
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 441
+        width: 227
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9680b823008861043b8ba7bb527e8916
+      internalID: 324463967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic chel_39
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 441
+        width: 227
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01dbb9e34b55bb4d935b20d9f2c574a
+      internalID: -1985633943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic chel_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222
+        width: 227
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d91fdcd7e4ed944a6ed3e5b483b799
+      internalID: 646346921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic chel_41
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 222
+        width: 227
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b016f416a9879a4da5df85b7e20ceeb
+      internalID: -1030848731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic chel_42
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 222
+        width: 227
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6439a2d18e17a754bb19265f59e46f0f
+      internalID: -1235230076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic chel_43
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 222
+        width: 227
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85eb8d3f2916ef4f888185f9502d32b
+      internalID: 1255988379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic chel_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 227
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca0067b7b8a2a947ab2195a3257e5c2
+      internalID: 1028434044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic chel_45
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 3
+        width: 227
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28135d0b7233434448cec650a0bb4336
+      internalID: -1336009101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic chel_46
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 3
+        width: 227
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47913bbbe46fcec41aebb6bcf110d6d5
+      internalID: -500553032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic chel_47
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 3
+        width: 227
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af159d3ee1a80b41b9b838ce9a09381
+      internalID: 1827743956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic chel_48
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 3
+        width: 227
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be93e0473d8d335408eb7bb2f422f3d9
+      internalID: -1753046317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic chel_49
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 3
+        width: 227
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424ebb06a3484074795a3037b96e410c
+      internalID: -443645034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      magic chel_0: 583586503
+      magic chel_1: -1249896297
+      magic chel_10: 2068387264
+      magic chel_11: -1002219540
+      magic chel_12: -2082511598
+      magic chel_13: -60913443
+      magic chel_14: 83483061
+      magic chel_15: -1962355367
+      magic chel_16: -405478259
+      magic chel_17: 826115802
+      magic chel_18: -1321746023
+      magic chel_19: -1921073241
+      magic chel_2: 1346973364
+      magic chel_20: 1447711902
+      magic chel_21: 851460611
+      magic chel_22: 578897434
+      magic chel_23: -1588938745
+      magic chel_24: 710356472
+      magic chel_25: -1200381607
+      magic chel_26: -1005385075
+      magic chel_27: -1857620845
+      magic chel_28: 113938456
+      magic chel_29: -904003077
+      magic chel_3: -1157756831
+      magic chel_30: -1244980366
+      magic chel_31: 1383136717
+      magic chel_32: -1025772397
+      magic chel_33: -379334178
+      magic chel_34: -2110139116
+      magic chel_35: 339046342
+      magic chel_36: 1525744115
+      magic chel_37: 279759163
+      magic chel_38: 324463967
+      magic chel_39: -1985633943
+      magic chel_4: 1130343406
+      magic chel_40: 646346921
+      magic chel_41: -1030848731
+      magic chel_42: -1235230076
+      magic chel_43: 1255988379
+      magic chel_44: 1028434044
+      magic chel_45: -1336009101
+      magic chel_46: -500553032
+      magic chel_47: 1827743956
+      magic chel_48: -1753046317
+      magic chel_49: -443645034
+      magic chel_5: -1344661845
+      magic chel_6: 1456774937
+      magic chel_7: -1373164071
+      magic chel_8: -1004853299
+      magic chel_9: 562331610
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
