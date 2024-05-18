@@ -95,15 +95,34 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.adaptiveperformance": {
+<<<<<<< HEAD
       "version": "4.0.1",
       "depth": 1,
       "source": "registry",
       "dependencies": {
         "com.unity.subsystemregistration": "1.1.0",
+=======
+      "version": "5.0.0",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+>>>>>>> ddb836c34f4a08e39f060f903a2b9c7bdd7532af
         "com.unity.profiling.core": "1.0.2"
       },
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
+=======
+    "com.unity.adaptiveperformance.samsung.android": {
+      "version": "5.0.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.adaptiveperformance": "5.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
+>>>>>>> ddb836c34f4a08e39f060f903a2b9c7bdd7532af
     "com.unity.burst": {
       "version": "1.8.12",
       "depth": 3,
@@ -218,6 +237,7 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
     "com.unity.subsystemregistration": {
       "version": "1.1.1",
       "depth": 2,
@@ -227,6 +247,8 @@
       },
       "url": "https://packages.unity.com"
     },
+=======
+>>>>>>> ddb836c34f4a08e39f060f903a2b9c7bdd7532af
     "com.unity.test-framework": {
       "version": "1.1.33",
       "depth": 0,
