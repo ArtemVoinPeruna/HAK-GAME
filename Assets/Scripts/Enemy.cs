@@ -20,7 +20,7 @@ public class Enemy : MonoBehaviour
     void Update()
     {
         // Обновление позиции слайдера здоровья
-        healthSlider.transform.position = Camera.main.WorldToScreenPoint(transform.position + Vector3.up * 2);
+        // healthSlider.transform.position = Camera.main.WorldToScreenPoint(transform.position + Vector3.up * 2);
     }
 
     public void TakeDamage(int damage)
