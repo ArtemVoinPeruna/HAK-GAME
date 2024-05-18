@@ -1,7 +1,10 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> ddb836c34f4a08e39f060f903a2b9c7bdd7532af
 --- !u!114 &-4610188833526990591
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -32,6 +35,9 @@ MonoBehaviour:
   m_AutomaticRunning: 0
   m_Loaders:
   - {fileID: 11400000, guid: 5cab53496ec579143b0c784115124fb5, type: 2}
+<<<<<<< HEAD
+>>>>>>> ddb836c34f4a08e39f060f903a2b9c7bdd7532af
+=======
 >>>>>>> ddb836c34f4a08e39f060f903a2b9c7bdd7532af
 --- !u!114 &11400000
 MonoBehaviour:
@@ -46,8 +52,14 @@ MonoBehaviour:
   m_Name: AdaptivePerformanceGeneralSettings
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
+<<<<<<< HEAD
   Keys: 
   Values: []
+=======
+  Keys: 07000000
+  Values:
+  - {fileID: -4610188833526990591}
+>>>>>>> ddb836c34f4a08e39f060f903a2b9c7bdd7532af
 =======
   Keys: 07000000
   Values:
